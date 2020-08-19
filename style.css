@@ -13,7 +13,7 @@ html {
 
 }
 
-h1{
+h3{
 	animation: bounce;
     animation-duration: 1s;
 	font-size: 3rem;
