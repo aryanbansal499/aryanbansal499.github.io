@@ -9,10 +9,13 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  
 
 }
 
 h1{
+	animation: bounce;
+    animation-duration: 1s;
 	font-size: 3rem;
 	color: #d66a1d ;
 }
@@ -50,11 +53,12 @@ h1{
 hr
 {
 	border-color: #d66a1d ;
-	border-width: 3px;
-	max-width: 65px;
+	border-width: 4px;
+	max-width: 250px;
 }
 
 .buffer
 {
-	height: 4rem
+	height: 1.5rem
 }
+
